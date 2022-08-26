@@ -2,10 +2,11 @@ style
 body{
     margin: 0%;
     padding: 0%;
-    background-image: url("images/DSCN9916.jpg");
 }
 body {
     background-color: rgb(93, 130, 131);
+    background-size: cover;
+    background-image: url("images/DSCN9916.jpg");
 }
 form{
     margin-left: 35%;
@@ -28,4 +29,7 @@ li {
 footer{
     display: flex;
     margin-left: 35%;
+}
+.login{
+    margin-left: 80%;
 }
