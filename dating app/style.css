@@ -1,0 +1,31 @@
+style
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url("images/DSCN9916.jpg");
+}
+body {
+    background-color: rgb(93, 130, 131);
+}
+form{
+    margin-left: 35%;
+    display: flexbox;
+}
+nav {
+    display: flex;
+    padding: 0px;
+}
+ul {
+    margin-left: 30%;
+}
+li {
+    display: inline;
+    margin-left: 40px;
+}
+.appdetail{
+    display: flexbox;
+}
+footer{
+    display: flex;
+    margin-left: 35%;
+}
