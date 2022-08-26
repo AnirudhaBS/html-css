@@ -10,6 +10,3 @@ p{
     color: darkred;
     font-size: x-large;
 }
-footer{
-    animation-iteration-count: calc(2sec);
-}

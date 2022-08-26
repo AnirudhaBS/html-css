@@ -33,3 +33,13 @@ footer{
 .login{
     margin-left: 80%;
 }
+div{
+    display: flexbox;
+}
+.appdetail{
+    color: beige;
+    display: inline;
+}
+.free{
+    color: antiquewhite;
+}
