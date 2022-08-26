@@ -29,6 +29,7 @@ li {
 footer{
     display: flex;
     margin-left: 35%;
+    color: gray;
 }
 .login{
     margin-left: 80%;
@@ -41,5 +42,13 @@ div{
     display: inline;
 }
 .free{
-    color: antiquewhite;
+    color: azure;
+    margin-left: 40%;
+}
+.login{
+    font-size: large;
+}
+button{
+    size: 20%;
+    background-color: deeppink;
 }
