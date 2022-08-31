@@ -41,6 +41,20 @@ div{
     color: beige;
     display: inline;
 }
+.column{
+    float: left;
+    width: 33.33%;
+}
+.appdetail::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.appdetail:hover,.appdetail:active{
+    background-color: cornsilk;
+    font-size: 120%;
+}
+}
 .free{
     color: azure;
     margin-left: 40%;
